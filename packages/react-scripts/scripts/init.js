@@ -406,6 +406,9 @@ module.exports = function (
   }
   console.log();
   console.log('Happy hacking!');
+  console.log();
+  console.log('Hey so I finally got this to work!');
+  console.log('Such a pain.');
 };
 
 function isReactInstalled(appPackage) {
